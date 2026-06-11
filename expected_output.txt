@@ -1,0 +1,8 @@
+Browser URL:
+
+http://127.0.0.1:8000
+
+Expected Screen:
+
+The install worked successfully!
+Congratulations!

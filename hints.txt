@@ -1,0 +1,11 @@
+Hint 1:
+
+venv is used for virtual environments.
+
+Hint 2:
+
+django-admin is used for creating projects.
+
+Hint 3:
+
+manage.py is used for running server.
